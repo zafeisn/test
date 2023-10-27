@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<a>
+    <b>1</b>
+    <e number="heima_0001">4
+        <d id="sn1">
+            <xing>张</xing>
+            <ming>三</ming>
+        </d>
+        <name id="sn2">小</name>
+        <age>19</age>
+        <sex>male</sex>
+    </e>
+    <e number="heima_0002">5
+        <name>jack</name>
+        <age>18</age>
+        <sex>female</sex>
+    </e>
+
+</a>

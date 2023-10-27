@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<students>张三
+    <id>1</id>
+    <student number="heima_0001">
+        <name id="sn1">
+            <xing>张</xing>
+            <ming>三</ming>
+        </name>
+        <name id="sn2">小</name>
+        <age>19</age>
+        <sex>male</sex>
+    </student>
+    <student number="heima_0002">
+        <name>jack</name>
+        <age>18</age>
+        <sex>female</sex>
+    </student>
+
+</students>
